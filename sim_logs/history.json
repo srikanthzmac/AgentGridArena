@@ -1,0 +1,299 @@
+[
+    {
+        "run_id": "20260307_000458",
+        "timestamp": "2026-03-07 00:04:58.736101",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 20,
+        "path_length": 21,
+        "obstacle_count": 5
+    },
+    {
+        "run_id": "20260307_000504",
+        "timestamp": "2026-03-07 00:05:04.991195",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 20,
+        "path_length": 21,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_000508",
+        "timestamp": "2026-03-07 00:05:08.417098",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 20,
+        "path_length": 21,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_000512",
+        "timestamp": "2026-03-07 00:05:12.528943",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 20,
+        "path_length": 21,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_000516",
+        "timestamp": "2026-03-07 00:05:16.557772",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 20,
+        "path_length": 21,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_000848",
+        "timestamp": "2026-03-07 00:08:59.620562",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 20,
+        "path_length": 21,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001012",
+        "timestamp": "2026-03-07 00:10:13.065312",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001015",
+        "timestamp": "2026-03-07 00:10:16.141074",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 5
+    },
+    {
+        "run_id": "20260307_001019",
+        "timestamp": "2026-03-07 00:10:19.598543",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001021",
+        "timestamp": "2026-03-07 00:10:21.456273",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001023",
+        "timestamp": "2026-03-07 00:10:23.738542",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001025",
+        "timestamp": "2026-03-07 00:10:25.407741",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001039",
+        "timestamp": "2026-03-07 00:10:40.079532",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 5
+    },
+    {
+        "run_id": "20260307_001238",
+        "timestamp": "2026-03-07 00:12:38.292802",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001238",
+        "timestamp": "2026-03-07 00:12:38.780381",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001239",
+        "timestamp": "2026-03-07 00:12:39.284326",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001239",
+        "timestamp": "2026-03-07 00:12:39.770487",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001240",
+        "timestamp": "2026-03-07 00:12:40.268596",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001240",
+        "timestamp": "2026-03-07 00:12:40.760859",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001241",
+        "timestamp": "2026-03-07 00:12:41.301282",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001241",
+        "timestamp": "2026-03-07 00:12:41.792604",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001242",
+        "timestamp": "2026-03-07 00:12:42.288835",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001242",
+        "timestamp": "2026-03-07 00:12:42.778905",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001243",
+        "timestamp": "2026-03-07 00:12:43.276117",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001243",
+        "timestamp": "2026-03-07 00:12:43.767394",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001244",
+        "timestamp": "2026-03-07 00:12:44.266416",
+        "grid_size": 6,
+        "success": true,
+        "steps_taken": 45,
+        "path_length": 46,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001244",
+        "timestamp": "2026-03-07 00:12:44.760555",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 5
+    },
+    {
+        "run_id": "20260307_001245",
+        "timestamp": "2026-03-07 00:12:45.256918",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001245",
+        "timestamp": "2026-03-07 00:12:45.743570",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 7
+    },
+    {
+        "run_id": "20260307_001246",
+        "timestamp": "2026-03-07 00:12:46.239844",
+        "grid_size": 6,
+        "success": true,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001246",
+        "timestamp": "2026-03-07 00:12:46.739116",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 5
+    },
+    {
+        "run_id": "20260307_001247",
+        "timestamp": "2026-03-07 00:12:47.238318",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    },
+    {
+        "run_id": "20260307_001247",
+        "timestamp": "2026-03-07 00:12:47.728942",
+        "grid_size": 6,
+        "success": false,
+        "steps_taken": 50,
+        "path_length": 51,
+        "obstacle_count": 6
+    }
+]
